@@ -1,4 +1,4 @@
-# Coming Soon Countdown Website
+# Coming-Soon-Countdown-Website
 
 A modern and professional "Coming Soon" webpage with a live countdown timer, designed using HTML, CSS, and JavaScript. The page features smooth animations, a clean layout, and a fully responsive design suitable for all screen sizes.
 
